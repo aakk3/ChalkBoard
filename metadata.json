@@ -1,0 +1,6 @@
+{
+  "name": "MyWhiteboard - IGCSE Interactive Whiteboard",
+  "description": "A feature-rich digital whiteboard tailored for IGCSE cross-disciplinary teaching in Physics, Mathematics, Chemistry, Biology, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
